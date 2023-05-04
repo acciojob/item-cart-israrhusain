@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+ table ,thead,tr,th,td{
+	  width:50px;
+	  height:10px;
+	 font-size:30px;
+	
+ }
